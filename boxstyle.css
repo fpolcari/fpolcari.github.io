@@ -1,0 +1,15 @@
+/* CSS USED TO STYLE BOXES IN THE MEDIA QUERY DEMO */
+body{
+    background: lightgray;
+}
+
+/* specificy dimensions for all boxes in the page*/
+.box{
+    width: 200px;
+    height: 200px;
+}
+
+.greenbox{
+    /* colors a box green */
+    background: green;
+}
